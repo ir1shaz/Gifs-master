@@ -1,0 +1,36 @@
+
+
+body {
+	background-image: url("../images/sports.jpg");
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.jumbotron {
+	background-image: url("../images/carbon.jpg");
+	background-size: 110%;
+	color: white;
+	border-width: 5px;  
+    border-style: groove;
+    border-color: purple;
+    text-shadow: 2px 2px 2px purple;
+}
+
+
+img {
+width: 40%;
+margin: 10px;
+}
+
+button {
+	margin: 5px;
+	padding: 3px;
+	color: purple;
+	border-radius: 12px;
+	font-size: 18px;
+}
+
+#sports-form{
+	color: black;
+}
